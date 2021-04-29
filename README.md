@@ -4,7 +4,9 @@ In this homework, students are tasked with analyzing the data of a gaming compan
 ## Age Demographics
 ![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Age%20Demographics.PNG)
 ## Gender Demographics
+Male players is the gender group with the higehest purchase.
 ![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Gender%20demographics.PNG)
+
 ## Most Popular Items
 ![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Most%20Popular%20Item.PNG)
 ## Most Profitable Items
