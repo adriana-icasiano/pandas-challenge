@@ -1,4 +1,5 @@
-# pandas-challenge
+# pandas-challenge (Heroes of Pymoli)
+In this homework, students are tasked with analyzing the data of a gaming company's most recent fantasy game Heroes of Pymoli.
 
 ## Age Demographics
 ![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Age%20Demographics.PNG)
