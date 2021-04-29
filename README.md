@@ -22,24 +22,25 @@ At 84%, male players comprise the majority of the player population. However, th
 >### Purchasing Analysis (Gender)
 ![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Purchasing%20Analysis%20(Gender).PNG)
 
+
 ## Purchase analysis by age
-Players aged between 20-24 (44.79%) comprise the majority of players, number of purchases and total value of purchases. However, for this age group, the average price ($3.05) and average purchase per person ($4.32) is lower compared to the age group 35-39 and below 10. The average purchase price in age group 35-39 ($3.60) and <10 ($3.35) is not as high as most of the top five spenders. This indicates that players aged 20-24 tends to spend on lower priced items.
+Players aged between 20-24 (44.79%) comprise the majority of players, number of purchases and total value of purchases. The average price ($3.05) is the same as the average price for all purchasese ($3.05). However, the average purchase per person ($4.32) for players aged 20-24 is lower compared to the age group 35-39 ($4.76) and below 10 ($4.54).  This indicates that players aged 20-24 tends to spend on average and lower priced items.
 
 >### Age Demographics
 ![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Age%20Demographics.PNG)
 >### Purchasing Analysis (Age)
 ![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Purchasing%20Analysis%20(Age).PNG)
 
->### Top Spenders
-![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Top%20Spenders.PNG)
 
 ## Items analysis
-Final critic and Oathbreaker, Last Hope of the Breaking Storm are two items that are both most profitable and most popular. 
+Final critic and Oathbreaker, Last Hope of the Breaking Storm are two items that are both most profitable and most popular. Thee items are priced above average, and at/above the average purchase price for the top five spenders.
 
 >### Most Popular Items
 ![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Most%20Popular%20Item.PNG)
 >### Most Profitable Items
 ![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Most%20Profitable%20Item.PNG)
+>### Top Spenders
+![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Top%20Spenders.PNG)
 
 
 
