@@ -17,9 +17,11 @@ Players aged between 20-24 comprise the majority of players, number and total va
 >### Purchasing Analysis (Age)
 ![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Purchasing%20Analysis%20(Age).PNG)
 
-## Most Popular Items
+## Items analysis
+Final critic and Oathbreaker, Last Hope of the Breaking Storm are two items that are both most profitable and most popular. 
+>### Most Popular Items
 ![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Most%20Popular%20Item.PNG)
-## Most Profitable Items
+>### Most Profitable Items
 ![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Most%20Profitable%20Item.PNG)
 
 
