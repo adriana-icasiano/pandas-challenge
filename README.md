@@ -4,7 +4,9 @@ In this homework, students are tasked with analyzing the data of a gaming compan
 ## Table of Contents ##
 * [Summary](https://github.com/adriana-icasiano/pandas-challenge#Summary)
 * [Purchase analysis by gender](https://github.com/adriana-icasiano/pandas-challenge#Purchase-analysis-by-gender)
-* 
+* [Purchase analysis by age](https://github.com/adriana-icasiano/pandas-challenge#Purchase-analysis-by-age)
+* [Items analysis](https://github.com/adriana-icasiano/pandas-challenge#Items-analysis)
+
 ## Summary
 The total purchase is $2,380 from 780 players and 179 items.
 
