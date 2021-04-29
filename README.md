@@ -8,10 +8,13 @@ At 84%, male players comprise the majority of the player population. However, th
 >### Purchasing Analysis (Gender)
 ![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Purchasing%20Analysis%20(Gender).PNG)
 
-## Age Demographics
+## Purchase analysis by age
+Players aged between 20-24 comprise the majority of players and purchases.
+
+>## Age Demographics
 ![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Age%20Demographics.PNG)
 
-## Purchasing Analysis (Age)
+>## Purchasing Analysis (Age)
 ![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Purchasing%20Analysis%20(Age).PNG)
 
 ## Most Popular Items
