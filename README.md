@@ -15,14 +15,14 @@ The total purchase is $2,380. There is a total of 780 players and 179 items purc
 
 
 ## Purchase analysis by gender
-At 84%, male players comprise the majority of the player population. However, the compared to female and other/non-disclosed players, the average purchase price per item is the lowest, which indicates that male players tend to spend on lower priced items. 
+At 84%, male players comprise the majority of the player population. However, the compared to female ($4.47) and other/non-disclosed players ($4.56), the average purchase price per item for male ($4.07) is the lowest, which indicates that male players tend to spend on lower priced items. 
 >### Gender Demographics
 ![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Gender%20demographics.PNG)
 >### Purchasing Analysis (Gender)
 ![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Purchasing%20Analysis%20(Gender).PNG)
 
 ## Purchase analysis by age
-Players aged between 20-24 comprise the majority of players, number and total value of purchases. However, the average price and average purchase per person is higher for players aged 35-39 and below 10. The average purchase per person in age group 35-39 is higher than that of the top five spenders.
+Players aged between 20-24 (44.79%) comprise the majority of players, number and total value of purchases. However, the average price ($3.05) and average purchase per person ($4.32) for the age group 20-24 is lower than for players aged 35-39 and below 10. The average purchase price in age group 35-39 ($3.60) and <10 ($3.35) is not as high as most of the top five spenders.
 
 >### Age Demographics
 ![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Age%20Demographics.PNG)
