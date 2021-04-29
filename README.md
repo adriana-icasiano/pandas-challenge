@@ -9,7 +9,7 @@ At 84%, male players comprise the majority of the player population. However, th
 ![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Purchasing%20Analysis%20(Gender).PNG)
 
 ## Purchase analysis by age
-Players aged between 20-24 comprise the majority of players and purchases.
+Players aged between 20-24 comprise the majority of players, number and total value of purchases. However, the average price and average purchase per person is higher players aged 35-39 and and below 10 is higher. This indicates that the 20-24 age group spends on lower priced items compared those age groups.
 
 >### Age Demographics
 ![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Age%20Demographics.PNG)
