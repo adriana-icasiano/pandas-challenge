@@ -8,7 +8,7 @@ In this homework, students are tasked with analyzing the data of a gaming compan
 * [Items analysis](https://github.com/adriana-icasiano/pandas-challenge#Items-analysis)
 
 ## Summary
-The total purchase is $2,380 from 780 players and 179 items.
+The total purchase is $2,380. There is a total of 780 players and 179 items purchased.
 
 ## Purchase analysis by gender
 At 84%, male players comprise the majority of the player population. However, the compared to female and other/non-disclosed players, the average purchase price per item is the lowest, which indicates that male players tend to spend on lower priced items. 
