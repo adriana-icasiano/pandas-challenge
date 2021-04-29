@@ -15,7 +15,7 @@ The total purchase is $2,380. There is a total of 780 players and 179 items purc
 
 
 ## Purchase analysis by gender
-At 84%, male players comprise the majority of the player population. However, the average purchase price per person for male ($4.07) is the lowest, compared to females ($4.47) and for other/ non-disclosed players ($4.56). The average price per item for male ($3.02) is lowest compared to all purchases ($3.05), female ($3.20) and other/ non-disclosed players ($3.35).
+At 84%, male players comprise the majority of the player population. However, the average purchase price per person for male ($4.07) is the lowest, compared to females ($4.47) and for other/ non-disclosed players ($4.56). The average price per item for male ($3.02) is lowest compared to all purchases ($3.05), female ($3.20) and other/ non-disclosed players ($3.35). This indicates that male players tends to spend on lower priced items.
 
 >### Gender Demographics
 ![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Gender%20demographics.PNG)
@@ -23,7 +23,7 @@ At 84%, male players comprise the majority of the player population. However, th
 ![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Purchasing%20Analysis%20(Gender).PNG)
 
 ## Purchase analysis by age
-Players aged between 20-24 (44.79%) comprise the majority of players, number and total value of purchases. However, the average price ($3.05) and average purchase per person ($4.32) for the age group 20-24 is lower than for players aged 35-39 and below 10. The average purchase price in age group 35-39 ($3.60) and <10 ($3.35) is not as high as most of the top five spenders.
+Players aged between 20-24 (44.79%) comprise the majority of players, number of purchases and total value of purchases. However, for this age group, the average price ($3.05) and average purchase per person ($4.32) is lower compared to the age group 35-39 and below 10. The average purchase price in age group 35-39 ($3.60) and <10 ($3.35) is not as high as most of the top five spenders. This indicates that players aged 20-24 tends to spend on lower priced items.
 
 >### Age Demographics
 ![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Age%20Demographics.PNG)
