@@ -15,7 +15,7 @@ The total purchase is $2,380. There is a total of 780 players and 179 items purc
 
 
 ## Purchase analysis by gender
-At 84%, male players comprise the majority of the player population. However, the compared to female ($4.47) and other/non-disclosed players ($4.56), the average purchase price per item for male ($4.07) is the lowest, compared to females ($4.47) and for other/ non-disclosed players ($4.56). 
+At 84%, male players comprise the majority of the player population. However, the average purchase price per person for male ($4.07) is the lowest, compared to females ($4.47) and for other/ non-disclosed players ($4.56). Similarly, the average price per item for male is lowest compared female and other/ non-disclosed players.
 
 >### Gender Demographics
 ![](https://github.com/adriana-icasiano/pandas-challenge/blob/709c1a555e380915c3db04b549d5c41104969134/Images/Gender%20demographics.PNG)
