@@ -3,10 +3,7 @@ In this homework, students are tasked with analyzing the data of a gaming compan
 
 ## Table of Contents ##
 * [Summary](https://github.com/adriana-icasiano/pandas-challenge#Summary)
-* [Analysis](https://github.com/adriana-icasiano/Excel-challenge#Analysis)
-* [Data Limitation](https://github.com/adriana-icasiano/Excel-challenge#Data-Limitation)
-* [Additional Tables and Graphs](https://github.com/adriana-icasiano/Excel-challenge#Additional-tables-graphs)
-* [Bonus Statistical](https://github.com/adriana-icasiano/Excel-challenge#Bonus-Statistical)
+* [Purchase analysis by gender](https://github.com/adriana-icasiano/pandas-challenge#Purchase-analysis-by-gender)
 * 
 ## Summary
 The total purchase is $2,380 from 780 players and 179 items.
